@@ -7,11 +7,11 @@ start:
 
 ; Constants
 yfactor:
-dd 0.02
+dd 0.012
 yoffset:
-dd -2.0
+dd -1.2
 xfactor:
-dd 0.01250
+dd 0.012
 xoffset:
 dd -2.5
 four:
