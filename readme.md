@@ -1,1 +1,3 @@
 # Why the fuck did I spend the night on this...
+
+![mandelboot](https://i.imgur.com/zJoGrEc.png)
